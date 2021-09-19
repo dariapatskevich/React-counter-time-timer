@@ -1,0 +1,11 @@
+.button{
+    background-color: rgb(1,0,244);
+    color: white;
+    font-size: 20px;
+    width: 150px;
+    height: 60px;
+    margin-top: 50px;
+}
+.timer{
+    font-size:60px;
+}
