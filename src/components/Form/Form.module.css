@@ -1,0 +1,16 @@
+* {
+	box-sizing: border-box;
+}
+
+input {
+	margin-top: 10px;
+	width: 70%;
+	height: 50px;
+	font-size: 25px;
+	border-radius: 7px;
+	border: 1px solid #444443;
+}
+
+input::placeholder {
+	color: #2ab8b8;
+}
