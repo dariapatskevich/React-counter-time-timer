@@ -1,4 +1,4 @@
-# React-counter-time-timer
+# React-counter-time-timer-emoji
 
 # task 1 
 ![image](https://user-images.githubusercontent.com/60344473/133937133-e9aa0194-1b24-423e-95f1-6cb69accab63.png)
