@@ -21,3 +21,10 @@
 
 
 ![image](https://user-images.githubusercontent.com/60344473/133937185-765b0838-4c09-4a9a-af25-6ab905659fb8.png)
+
+# task 4
+
+![image](https://user-images.githubusercontent.com/60344473/135621440-457f80c8-58a7-4df1-9e55-2d59323501f6.png)
+
+![image](https://user-images.githubusercontent.com/60344473/135621496-cff43b75-5dd1-449f-a97e-08e90e59573b.png)
+
